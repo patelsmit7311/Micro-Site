@@ -1,5 +1,5 @@
 <?php
-// by Utsav Patel
+// by Smit Patel
 include('config.php'); // connection file to establish connection to database
     $username = $_POST['yourname']; // using POST user data will not reveal in URL 
     $useremail = $_POST['email'];
