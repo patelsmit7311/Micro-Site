@@ -1,5 +1,5 @@
 <?php
-// by Utsav Patel
+// by Smit Patel
 // config.php used to connect to the database 
 $connection = mysqli_connect("localhost","root","");
 if(!$connection) { // if connection is not establish then, IF block execute
